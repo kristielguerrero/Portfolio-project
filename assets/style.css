@@ -1,0 +1,14 @@
+* {
+
+    color: white
+}
+body {
+    background-color: #a9c3e2;
+}
+
+header {
+    padding: 20px; 
+    font-family: fantasy;
+    background-color: rgb(105, 102, 102);
+    
+}
