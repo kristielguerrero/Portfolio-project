@@ -1,6 +1,9 @@
 body {
   font-color: lightgrey;
 }
+ul {
+  list-style-type: circle;
+}
 
 p,
 .col {
