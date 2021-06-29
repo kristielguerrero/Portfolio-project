@@ -79,6 +79,16 @@ footer {
 }
 
 #explore-mars {
-  width: 200px;
-  height: 200px;
+  width: 350px;
+  height: 300px;
+}
+
+#planner {
+  float: left;
+  margin-left: 25px;
+  height: 350px;
+  width: 25%;
+  padding: 10px;
+  padding-right: 35px;
+  flex-wrap: wrap;
 }
