@@ -1,2 +1,11 @@
 # Portfolio-project
-Portfolio 
+
+## Description
+
+<!-- Summary of project -->
+
+## Contact
+
+<!-- kristyguerrer20@gmail.com -->
+
+## Link to the page:
