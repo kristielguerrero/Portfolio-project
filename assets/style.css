@@ -29,6 +29,7 @@ p,
   background-image: url(./coding\ pic.jpg);
   background-size: cover;
   background-position: center;
+  display: inline-block;
 }
 
 header {
@@ -78,7 +79,8 @@ footer {
 #explore-mars,
 #planner,
 #horiseon,
-#future-project {
+#community-sidekicks,
+#read-me {
   width: 350px;
   height: 300px;
 }
@@ -86,4 +88,8 @@ footer {
 #contact-icon {
   width: 100px;
   height: 100px;
+}
+
+div {
+  column-gap: 10px;
 }
