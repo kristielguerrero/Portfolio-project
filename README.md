@@ -22,4 +22,5 @@ Webpage portfolio that showcases skills as a full-stack web developer. Projects 
 https://kristielguerrero.github.io/Portfolio-project/
 
 ![Portfolio](/assets/Portfolio.PNG)
-![Portfolio](/assets/portfolio-2.PNG)
+
+![Portfolio](/assets/portfolio-gif.gif)
