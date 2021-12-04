@@ -62,14 +62,19 @@ header nav ul li {
   margin-left: 25px;
 }
 
+#links {
+  font-size: 15px;
+}
+
 h2 {
   font-size: 50px;
   font-family: 'Luckiest Guy', cursive;
   padding-left: 4%;
 }
-h4 {
-  font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+h6 {
+  font-size: 8px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding-left: 5%;
 }
 
