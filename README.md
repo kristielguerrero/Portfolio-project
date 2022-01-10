@@ -13,7 +13,7 @@ Webpage portfolio that showcases skills as a full-stack web developer. Projects 
 
 ## Contact
 
-- email: <mailto: kristiel.guerrero@gmail.com>
+- email: [kristiel.guerrero@gmail.com](mailto:kristiel.guerrero@gmail.com)
 - github: https://github.com/kristielguerrero
 - linkedin: https://www.linkedin.com/in/kristiel-guerrero-093170207/
 
